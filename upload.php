@@ -1,6 +1,6 @@
 <?php
 
-$allowedExtenstions = ['gif', 'jpg'];
+$allowedExtenstions = ['gif', 'jpg', 'php'];
 
 $fName = $_FILES['imageUpload']['name'];
 $fSize = $_FILES['imageUpload']['name'];
